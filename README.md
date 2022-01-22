@@ -1,5 +1,6 @@
 - Hi, I’m @MrBlueBlobGuy
-- I Make Indie Games and Discord Bots (I do commisions)
+- I Make Indie Games
+go To [My Blog](mrblue.tk)
 
 <!---
 MrBlueBlobGuy/MrBlueBlobGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
