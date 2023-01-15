@@ -1,17 +1,13 @@
 - Hi, I’m @MrBlueBlobGuy
 - I Make Indie Games
+<br>
 Languages I know How to use
-  C#
-  C++
-  Python
-  Java
-  javascript
-  
-Things I Like:
-  Spicy food
-  
-Things I do not like:
-  School
+- C#
+- C++
+- Python
+- Java
+- javascript
+
 
 <!---
 MrBlueBlobGuy/MrBlueBlobGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
