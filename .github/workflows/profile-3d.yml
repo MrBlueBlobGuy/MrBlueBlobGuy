@@ -21,11 +21,11 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           
-          git fetch origin master
-          git reset --soft origin/master
+          git fetch origin main
+          git reset --soft origin/main
           
           git add -A
           git commit -m "generated"
           
-          git pull --rebase origin master
-          git push origin master
+          git pull --rebase origin main
+          git push origin main
