@@ -10,3 +10,5 @@ I am also into OSS, and have contributed to some real world projects like blende
 
 ## Looking for my portfolio
 [check here](https://portfolio-finale-rose.vercel.app/) 👈
+
+![Contribution stats Graph](profile-3d-contrib/profile-gitblock.svg)
